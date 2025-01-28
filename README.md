@@ -17,3 +17,8 @@ Ter a certeza de ter o __GIT__ instalado no PC e usar o _Github Desktop_.
 Vá até a pasta que você quer receber o repositório e faça:
 - Abra o CMD e digite: `git clone [link do projeto]`
 - Entre na pasta e digite no CMD: `npm install`
+
+## Como remover um repositório 
+Vá até a pasta que você quer remover o repositório e faça:
+- Abra o CMD e digite: `rd /s /q "nome da pasta do projeto"` 
+
